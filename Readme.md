@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Григорий Лапин](https://up.htmlacademy.ru/javascript/25/user/1972615).
-* Наставник: `Геннадий Максимов`.
+* Наставник: [Геннадий Максимов](https://htmlacademy.ru/profile/gennadiy).
 
 ---
 
